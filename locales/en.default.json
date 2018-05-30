@@ -89,7 +89,7 @@
   },
   "layout": {
     "header": {
-      "account": "Account",
+      "account": "Sign in",
       "logout": "Log out",
       "my_account": "My account",
       "cart": "Cart",
