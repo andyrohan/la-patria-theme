@@ -1,0 +1,1482 @@
+{
+  "current": {
+    "quickshop_show_vendor": false,
+    "quickshop_show_social_media_icons": false,
+    "quickshop_images_layout": "slideshow",
+    "quickshop_enable_zoom": false,
+    "quickshop_show_payment_button": false,
+    "favicon": "shopify:\/\/shop_images\/Logos_La_Patria-12.jpg",
+    "background-color": "#ffffff",
+    "body-background-image": "",
+    "body-text-color": "#000000",
+    "accent-color": "#d36654",
+    "heading-color": "#787878",
+    "meta-color": "#8a8a8a",
+    "border-color": "#e4e4e4",
+    "product-badge-background-color": "#d36654",
+    "button-color": "#ffffff",
+    "secondary-button-background": "#808080",
+    "secondary-button-color": "#ffffff",
+    "header-tools-color": "#242424",
+    "header-tools-background-color": "#f2f2f2",
+    "navigation-color": "#808080",
+    "form-select-background": "#ffffff",
+    "form-select-color": "#000000",
+    "form-select-border-color": "#e3e3e3",
+    "font-base-size": "14px",
+    "body-font": "Lato, sans-serif",
+    "heading-font": "Lato, sans-serif",
+    "heading-font-weight": "400",
+    "heading-font-small-caps": false,
+    "navigation-font": "Lato, sans-serif",
+    "navigation-font-weight": "400",
+    "navigation-font-small-caps": true,
+    "meta-font": "Lato, sans-serif",
+    "meta-font-weight": "400",
+    "meta-font-small-caps": false,
+    "button-font": "Lato, sans-serif",
+    "button-font-weight": "400",
+    "button-font-small-caps": false,
+    "alternative-index-layout": false,
+    "social-facebook-link": "https:\/\/www.facebook.com\/lapatria.ca\/",
+    "social-twitter-link": "@lapatria.ca",
+    "social-pinterest-link": "",
+    "social-instagram-link": "lapatria.ca",
+    "social-googleplus-link": "",
+    "social-tumblr-link": "",
+    "social-youtube-link": "",
+    "social-vimeo-link": "",
+    "social-kickstarter-link": "",
+    "social-email-link": "hello@lapatria.ca",
+    "share-widget-facebook": true,
+    "share-widget-twitter": true,
+    "share-widget-pinterest": true,
+    "share-widget-fancy": true,
+    "share-widget-google-plus": true,
+    "share-widget-email": true,
+    "currency-switcher-format": "money_with_currency_format",
+    "currency-switcher": true,
+    "currency-switcher-supported-currencies": "CAD USD GBP EUR AUD",
+    "default_currency": "CAD",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/La_Patria-01_2.jpg",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#787878",
+    "checkout_button_color": "#787878",
+    "checkout_error_color": "#e32c2b",
+    "ajax": false,
+    "alternative-index-layout-title-color": "#ffffff",
+    "currency-switcher-default": "CAD",
+    "customer_layout": "customer_area",
+    "logo-color": "#222222",
+    "password-mailing-list": false,
+    "sections": {
+      "section-3": {
+        "type": "home-collections",
+        "blocks": {
+          "collection-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "summer-2018",
+              "overlay-color": "black",
+              "subheading": "Collection subtitle",
+              "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+            }
+          },
+          "collection-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage",
+              "overlay-color": "black",
+              "subheading": "Collection subtitle",
+              "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+            }
+          },
+          "collection-3": {
+            "type": "collection",
+            "settings": {
+              "collection": "picnic",
+              "overlay-color": "black",
+              "subheading": "Collection subtitle",
+              "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+            }
+          }
+        },
+        "block_order": [
+          "collection-1",
+          "collection-2",
+          "collection-3"
+        ],
+        "settings": {
+          "title": "Collection list",
+          "columns_range": 3
+        }
+      },
+      "section-5": {
+        "type": "home-social-widgets",
+        "blocks": {
+          "1525037978754": {
+            "type": "instagram",
+            "settings": {
+              "username": "lapatria.ca",
+              "access-token": ""
+            }
+          }
+        },
+        "block_order": [
+          "1525037978754"
+        ],
+        "settings": {
+          "title": "Instagram"
+        }
+      },
+      "pxs-announcement-bar": {
+        "type": "pxs-announcement-bar",
+        "settings": {
+          "show_announcement": true,
+          "announcement_home_only": false,
+          "announcement_text": "FREE SHIPPING ACROSS CANADA & USA",
+          "announcement_text_mobile": "Use less text on mobile!",
+          "announcement_link": "",
+          "announcement_color": "#ffffff",
+          "announcement_background": "#d36654"
+        }
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "1525033349477": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "Shop",
+              "menu_image": ""
+            }
+          }
+        },
+        "block_order": [
+          "1525033349477"
+        ],
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/La_Patria-01_2.jpg",
+          "header_layout": "compact-center",
+          "header_full_width": true,
+          "header_border": true,
+          "sticky_header": false,
+          "sticky_header_logo": false,
+          "menu": "main-menu"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1525622273551": {
+            "type": "menu",
+            "settings": {
+              "menu": "footer"
+            }
+          },
+          "1525615091092": {
+            "type": "social-links",
+            "settings": {}
+          },
+          "1525622472448": {
+            "type": "newsletter",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "1525622273551",
+          "1525615091092",
+          "1525622472448"
+        ],
+        "settings": {
+          "headings": true,
+          "footer-payment-options": false
+        }
+      },
+      "collection": {
+        "type": "collection",
+        "settings": {
+          "show_collection_image": true,
+          "show_description": true,
+          "sorting": false,
+          "tag_filtering": false,
+          "layout": "default",
+          "products_per_row": 3,
+          "number_of_rows": 2,
+          "product-vendor": false,
+          "product-hover": "image-flip",
+          "product_stock_level_threshold": 5,
+          "product-badges": true,
+          "product-badges-icons": true
+        }
+      },
+      "cart": {
+        "type": "cart",
+        "settings": {
+          "special-instructions": false,
+          "special-instructions-placeholder": "Write any special instructions for your shipment here.",
+          "show-shipping-note": false,
+          "shipping-note": "Use this field to state if shipping and taxes are included in the cart price.",
+          "shipping-calculator": false,
+          "shipping_calculator_default_country": "United States"
+        }
+      },
+      "section-2": {
+        "type": "home-masonry",
+        "blocks": {
+          "feature-1": {
+            "type": "image_feature",
+            "settings": {
+              "title": "Masonry feature",
+              "subheading": "Showcase up to six features with overlaying text",
+              "url": "",
+              "color": "black",
+              "image": "shopify:\/\/shop_images\/IMG_4422.jpg",
+              "mobile": true
+            }
+          },
+          "feature-2": {
+            "type": "image_feature",
+            "settings": {
+              "title": "Masonry feature",
+              "subheading": "Showcase up to six features with overlaying text",
+              "url": "",
+              "color": "black",
+              "image": "shopify:\/\/shop_images\/IMG_4449.jpg",
+              "mobile": true
+            }
+          },
+          "feature-3": {
+            "type": "image_feature",
+            "settings": {
+              "title": "Masonry feature",
+              "subheading": "Showcase up to six features with overlaying text",
+              "url": "",
+              "color": "black",
+              "image": "shopify:\/\/shop_images\/IMG_4426.jpg",
+              "mobile": true
+            }
+          },
+          "feature-4": {
+            "type": "image_feature",
+            "settings": {
+              "title": "Masonry feature",
+              "subheading": "Showcase up to six features with overlaying text",
+              "url": "",
+              "color": "black",
+              "image": "shopify:\/\/shop_images\/IMG_4429.jpg",
+              "mobile": true
+            }
+          },
+          "feature-5": {
+            "type": "image_feature",
+            "settings": {
+              "title": "Masonry feature",
+              "subheading": "Showcase up to six features with overlaying text",
+              "url": "",
+              "color": "black",
+              "image": "shopify:\/\/shop_images\/IMG_4450.jpg",
+              "mobile": true
+            }
+          },
+          "feature-6": {
+            "type": "image_feature",
+            "settings": {
+              "title": "Masonry feature",
+              "subheading": "Showcase up to six features with overlaying text",
+              "url": "",
+              "color": "black",
+              "image": "shopify:\/\/shop_images\/57075e54-33d4-409e-87f6-898d98521d54.JPG",
+              "mobile": true
+            }
+          }
+        },
+        "block_order": [
+          "feature-1",
+          "feature-2",
+          "feature-3",
+          "feature-4",
+          "feature-5",
+          "feature-6"
+        ],
+        "settings": {
+          "layout": "full-width",
+          "gutters": true,
+          "hover": false,
+          "hover-animation": true
+        }
+      },
+      "home-masonry-alternative": {
+        "type": "home-masonry-alternative",
+        "settings": {
+          "logo": "",
+          "color": "",
+          "gutters": false,
+          "hover": false
+        }
+      },
+      "product": {
+        "type": "product",
+        "settings": {
+          "show_vendor": false,
+          "show_social_media_icons": false,
+          "images_layout": "slideshow",
+          "enable_zoom": true,
+          "show_payment_button": true,
+          "enable_related_products": true,
+          "related_products_position": "below"
+        }
+      },
+      "1525644322274": {
+        "type": "home-video",
+        "settings": {
+          "layout": "full-width",
+          "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+          "image": "shopify:\/\/shop_images\/IMG_4503_2.jpg",
+          "overlay_style": "dark",
+          "content_alignment": "center",
+          "title": "Video with text overlay",
+          "subtitle": "Watch our story"
+        }
+      },
+      "1525644472804": {
+        "type": "home-slideshow",
+        "disabled": true,
+        "blocks": {
+          "1525644472804-0": {
+            "type": "slide",
+            "settings": {
+              "image": "",
+              "content-alignment": "center",
+              "overlay-color": "",
+              "title": "Slide",
+              "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+              "cta": "Button",
+              "url": ""
+            }
+          },
+          "1525644472804-1": {
+            "type": "slide",
+            "settings": {
+              "image": "",
+              "content-alignment": "center",
+              "overlay-color": "",
+              "title": "Slide",
+              "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+              "cta": "Button",
+              "url": ""
+            }
+          }
+        },
+        "block_order": [
+          "1525644472804-0",
+          "1525644472804-1"
+        ],
+        "settings": {
+          "layout": "full-width",
+          "controls-color": "",
+          "autoplay": false,
+          "autoplay_delay": 3,
+          "autoplay-hover-pause": false
+        }
+      },
+      "1525653439862": {
+        "type": "home-message",
+        "blocks": {
+          "1525653439862-0": {
+            "type": "rich-text",
+            "settings": {
+              "rich_text": "<p>Inspired by everyday life for the modern urban woman. Our&nbsp;products perfectly combine traditional utility with modern living. We&nbsp;strive to bring back the&nbsp;unique hand craftsmanship of the past with the values of the present.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1525653439862-0"
+        ],
+        "settings": {
+          "border": true,
+          "heading": "Handmade for Life"
+        }
+      }
+    },
+    "content_for_index": [
+      "section-2",
+      "1525644322274",
+      "1525644472804",
+      "1525653439862",
+      "section-3",
+      "section-5"
+    ]
+  },
+  "presets": {
+    "Bright": {
+      "quickshop_show_vendor": false,
+      "quickshop_show_social_media_icons": false,
+      "quickshop_images_layout": "slideshow",
+      "quickshop_enable_zoom": false,
+      "quickshop_show_payment_button": false,
+      "favicon": "",
+      "background-color": "#ffffff",
+      "body-background-image": "",
+      "body-text-color": "#444444",
+      "accent-color": "#98700c",
+      "heading-color": "#000000",
+      "meta-color": "#8a8a8a",
+      "border-color": "#e4e4e4",
+      "product-badge-background-color": "#98700c",
+      "button-color": "#ffffff",
+      "secondary-button-background": "#e2ded0",
+      "secondary-button-color": "#98700c",
+      "header-tools-color": "#242424",
+      "header-tools-background-color": "#ffffff",
+      "navigation-color": "#808080",
+      "form-select-background": "#ffffff",
+      "form-select-color": "#787878",
+      "form-select-border-color": "#e4e4e4",
+      "font-base-size": "14px",
+      "body-font": "'Josefin Slab', serif",
+      "heading-font": "Lora, serif",
+      "heading-font-weight": "400",
+      "heading-font-small-caps": true,
+      "navigation-font": "'Josefin Slab', serif",
+      "navigation-font-weight": "400",
+      "navigation-font-small-caps": false,
+      "meta-font": "'Josefin Slab', serif",
+      "meta-font-weight": "400",
+      "meta-font-small-caps": false,
+      "button-font": "Lato, sans-serif",
+      "button-font-weight": "400",
+      "button-font-small-caps": true,
+      "alternative-index-layout": true,
+      "social-facebook-link": "",
+      "social-twitter-link": "",
+      "social-pinterest-link": "",
+      "social-instagram-link": "",
+      "social-googleplus-link": "",
+      "social-tumblr-link": "",
+      "social-youtube-link": "",
+      "social-vimeo-link": "",
+      "social-kickstarter-link": "",
+      "social-email-link": "",
+      "share-widget-facebook": true,
+      "share-widget-twitter": true,
+      "share-widget-pinterest": true,
+      "share-widget-fancy": true,
+      "share-widget-google-plus": true,
+      "share-widget-email": true,
+      "currency-switcher-format": "money_with_currency_format",
+      "currency-switcher": true,
+      "currency-switcher-supported-currencies": "CAD USD GBP AUD JPY",
+      "default_currency": "USD",
+      "ajax": true,
+      "alternative-index-layout-title-color": "#ffffff",
+      "currency-switcher-default": "CAD",
+      "customer_layout": "customer_area",
+      "logo-color": "#222222",
+      "password-mailing-list": false,
+      "sections": {
+        "section-1": {
+          "type": "home-slideshow",
+          "blocks": {
+            "slide-1": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "left",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            },
+            "slide-2": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "center",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            },
+            "slide-3": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "right",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-1",
+            "slide-2",
+            "slide-3"
+          ],
+          "settings": {
+            "layout": "full-width",
+            "controls-color": "",
+            "autoplay": false,
+            "autoplay_delay": 3,
+            "autoplay-hover-pause": false
+          }
+        },
+        "section-2": {
+          "type": "home-collections",
+          "blocks": {
+            "collection-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            },
+            "collection-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            },
+            "collection-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            }
+          },
+          "block_order": [
+            "collection-1",
+            "collection-2",
+            "collection-3"
+          ],
+          "settings": {
+            "title": "Collection list",
+            "columns_range": 3
+          }
+        },
+        "section-3": {
+          "type": "home-social-widgets",
+          "settings": {
+            "title": "Twitter and Instagram"
+          }
+        },
+        "home-masonry-alternative": {
+          "type": "home-masonry-alternative",
+          "settings": {
+            "logo": "",
+            "color": "",
+            "gutters": false,
+            "hover": false
+          }
+        }
+      },
+      "content_for_index": [
+        "section-1",
+        "section-2",
+        "section-3"
+      ]
+    },
+    "Light": {
+      "quickshop_show_vendor": false,
+      "quickshop_show_social_media_icons": false,
+      "quickshop_images_layout": "slideshow",
+      "quickshop_enable_zoom": false,
+      "quickshop_show_payment_button": false,
+      "favicon": "",
+      "background-color": "#ffffff",
+      "body-background-image": "",
+      "body-text-color": "#333333",
+      "accent-color": "#4667a7",
+      "heading-color": "#000000",
+      "meta-color": "#8a8a8a",
+      "border-color": "#e4e4e4",
+      "product-badge-background-color": "#d36654",
+      "button-color": "#ffffff",
+      "secondary-button-background": "#d1d9e6",
+      "secondary-button-color": "#375da4",
+      "header-tools-color": "#242424",
+      "header-tools-background-color": "#f2f2f2",
+      "navigation-color": "#808080",
+      "form-select-background": "#ffffff",
+      "form-select-color": "#787878",
+      "form-select-border-color": "#e3e3e3",
+      "font-base-size": "14px",
+      "body-font": "Lato, sans-serif",
+      "heading-font": "'Crimson Text', serif",
+      "heading-font-weight": "400",
+      "heading-font-small-caps": false,
+      "navigation-font": "Lato, sans-serif",
+      "navigation-font-weight": "400",
+      "navigation-font-small-caps": false,
+      "meta-font": "Lato, sans-serif",
+      "meta-font-weight": "400",
+      "meta-font-small-caps": true,
+      "button-font": "Lato, sans-serif",
+      "button-font-weight": "400",
+      "button-font-small-caps": false,
+      "alternative-index-layout": false,
+      "social-facebook-link": "",
+      "social-twitter-link": "",
+      "social-pinterest-link": "",
+      "social-instagram-link": "",
+      "social-googleplus-link": "",
+      "social-tumblr-link": "",
+      "social-youtube-link": "",
+      "social-vimeo-link": "",
+      "social-kickstarter-link": "",
+      "social-email-link": "",
+      "share-widget-facebook": true,
+      "share-widget-twitter": true,
+      "share-widget-pinterest": true,
+      "share-widget-fancy": true,
+      "share-widget-google-plus": true,
+      "share-widget-email": true,
+      "currency-switcher-format": "money_with_currency_format",
+      "currency-switcher": true,
+      "currency-switcher-supported-currencies": "CAD USD GBP AUD JPY",
+      "default_currency": "USD",
+      "ajax": false,
+      "alternative-index-layout-title-color": "#ffffff",
+      "currency-switcher-default": "CAD",
+      "customer_layout": "customer_area",
+      "logo-color": "#222222",
+      "password-mailing-list": false,
+      "sections": {
+        "section-1": {
+          "type": "home-slideshow",
+          "blocks": {
+            "slide-1": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "left",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            },
+            "slide-2": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "center",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            },
+            "slide-3": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "right",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-1",
+            "slide-2",
+            "slide-3"
+          ],
+          "settings": {
+            "layout": "full-width",
+            "controls-color": "",
+            "autoplay": false,
+            "autoplay_delay": 3,
+            "autoplay-hover-pause": false
+          }
+        },
+        "section-2": {
+          "type": "home-masonry",
+          "blocks": {
+            "feature-1": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-2": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-3": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-4": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-5": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-6": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            }
+          },
+          "block_order": [
+            "feature-1",
+            "feature-2",
+            "feature-3",
+            "feature-4",
+            "feature-5",
+            "feature-6"
+          ],
+          "settings": {
+            "layout": "content-width",
+            "gutters": true,
+            "hover": false,
+            "hover-animation": true
+          }
+        },
+        "section-3": {
+          "type": "home-collections",
+          "blocks": {
+            "collection-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            },
+            "collection-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            },
+            "collection-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            }
+          },
+          "block_order": [
+            "collection-1",
+            "collection-2",
+            "collection-3"
+          ],
+          "settings": {
+            "title": "Collection list",
+            "columns_range": 3
+          }
+        },
+        "section-4": {
+          "type": "home-products",
+          "settings": {
+            "title": "Featured collection",
+            "collection": "",
+            "product-columns": 3,
+            "product-rows": 3,
+            "product-vendor": true,
+            "product-hover": "quick-shop",
+            "product_stock_level_threshold": 5,
+            "product-badges": true,
+            "product-badges-icons": true
+          }
+        },
+        "section-5": {
+          "type": "home-social-widgets",
+          "settings": {
+            "title": "Twitter and Instagram"
+          }
+        },
+        "pxs-announcement-bar": {
+          "type": "pxs-announcement-bar",
+          "settings": {
+            "show_announcement": false,
+            "announcement_home_only": false,
+            "announcement_text": "Call attention to a special discount, feature, or promotion here.",
+            "announcement_text_mobile": "Use less text on mobile!",
+            "announcement_link": "",
+            "announcement_color": "#ffffff",
+            "announcement_background": "#000000"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "header_layout": "default",
+            "header_full_width": false,
+            "header_border": false,
+            "sticky_header": false,
+            "sticky_header_logo": false,
+            "menu": "main-menu"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "headings": false,
+            "footer-payment-options": false
+          }
+        }
+      },
+      "content_for_index": [
+        "section-1",
+        "section-2",
+        "section-3",
+        "section-4",
+        "section-5"
+      ]
+    },
+    "Moody": {
+      "quickshop_show_vendor": false,
+      "quickshop_show_social_media_icons": false,
+      "quickshop_images_layout": "slideshow",
+      "quickshop_enable_zoom": false,
+      "quickshop_show_payment_button": false,
+      "favicon": "",
+      "background-color": "#6a6e68",
+      "body-background-image": "",
+      "body-text-color": "#f1f7ed",
+      "accent-color": "#ffffff",
+      "heading-color": "#f1f7ed",
+      "meta-color": "#c7c7c7",
+      "border-color": "#e4e4e4",
+      "product-badge-background-color": "#ffffff",
+      "button-color": "#444444",
+      "secondary-button-background": "#cfd3cd",
+      "secondary-button-color": "#444444",
+      "header-tools-color": "#f1f7ed",
+      "header-tools-background-color": "#727670",
+      "navigation-color": "#f1f7ed",
+      "form-select-background": "#727670",
+      "form-select-color": "#f1f7ed",
+      "form-select-border-color": "#e4e4e4",
+      "font-base-size": "14px",
+      "body-font": "'PT Sans', sans-serif",
+      "heading-font": "'Playfair Display', serif",
+      "heading-font-weight": "700",
+      "heading-font-small-caps": false,
+      "navigation-font": "'PT Sans', sans-serif",
+      "navigation-font-weight": "400",
+      "navigation-font-small-caps": false,
+      "meta-font": "'PT Sans', sans-serif",
+      "meta-font-weight": "400",
+      "meta-font-small-caps": true,
+      "button-font": "'Source Sans Pro', sans-serif",
+      "button-font-weight": "400",
+      "button-font-small-caps": false,
+      "alternative-index-layout": false,
+      "social-facebook-link": "",
+      "social-twitter-link": "",
+      "social-pinterest-link": "",
+      "social-instagram-link": "",
+      "social-googleplus-link": "",
+      "social-tumblr-link": "",
+      "social-youtube-link": "",
+      "social-vimeo-link": "",
+      "social-kickstarter-link": "",
+      "social-email-link": "",
+      "share-widget-facebook": true,
+      "share-widget-twitter": true,
+      "share-widget-pinterest": true,
+      "share-widget-fancy": true,
+      "share-widget-google-plus": true,
+      "share-widget-email": true,
+      "currency-switcher-format": "money_with_currency_format",
+      "currency-switcher": true,
+      "currency-switcher-supported-currencies": "CAD USD GBP AUD JPY",
+      "default_currency": "USD",
+      "ajax": false,
+      "alternative-index-layout-title-color": "#ffffff",
+      "currency-switcher-default": "CAD",
+      "customer_layout": "customer_area",
+      "logo-color": "#222222",
+      "password-mailing-list": false,
+      "sections": {
+        "section-1": {
+          "type": "home-slideshow",
+          "blocks": {
+            "slide-1": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "left",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            },
+            "slide-2": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "center",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            },
+            "slide-3": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "right",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-1",
+            "slide-2",
+            "slide-3"
+          ],
+          "settings": {
+            "layout": "full-width",
+            "controls-color": "",
+            "autoplay": false,
+            "autoplay_delay": 3,
+            "autoplay-hover-pause": false
+          }
+        },
+        "section-2": {
+          "type": "home-masonry",
+          "blocks": {
+            "feature-1": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-2": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-3": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-4": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-5": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-6": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            }
+          },
+          "block_order": [
+            "feature-1",
+            "feature-2",
+            "feature-3",
+            "feature-4",
+            "feature-5",
+            "feature-6"
+          ],
+          "settings": {
+            "layout": "content-width",
+            "gutters": true,
+            "hover": false,
+            "hover-animation": true
+          }
+        },
+        "section-3": {
+          "type": "home-collections",
+          "blocks": {
+            "collection-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            },
+            "collection-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            },
+            "collection-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            }
+          },
+          "block_order": [
+            "collection-1",
+            "collection-2",
+            "collection-3"
+          ],
+          "settings": {
+            "title": "Collection list",
+            "columns_range": 3
+          }
+        },
+        "section-4": {
+          "type": "home-social-widgets",
+          "settings": {
+            "title": "Twitter and Instagram"
+          }
+        },
+        "pxs-announcement-bar": {
+          "type": "pxs-announcement-bar",
+          "settings": {
+            "show_announcement": false,
+            "announcement_home_only": false,
+            "announcement_text": "Call attention to a special discount, feature, or promotion here.",
+            "announcement_text_mobile": "Use less text on mobile!",
+            "announcement_link": "",
+            "announcement_color": "#ffffff",
+            "announcement_background": "#000000"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "header_layout": "default",
+            "header_full_width": false,
+            "header_border": false,
+            "sticky_header": false,
+            "sticky_header_logo": false,
+            "menu": "main-menu"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "headings": false,
+            "footer-payment-options": false
+          }
+        }
+      },
+      "content_for_index": [
+        "section-1",
+        "section-2",
+        "section-3",
+        "section-4"
+      ]
+    },
+    "Warm": {
+      "quickshop_show_vendor": false,
+      "quickshop_show_social_media_icons": false,
+      "quickshop_images_layout": "slideshow",
+      "quickshop_enable_zoom": false,
+      "quickshop_show_payment_button": false,
+      "favicon": "",
+      "background-color": "#f2eee8",
+      "body-background-image": "",
+      "body-text-color": "#6d5f5a",
+      "accent-color": "#8e6429",
+      "heading-color": "#6d5f5a",
+      "meta-color": "#867671",
+      "border-color": "#e7e1d8",
+      "product-badge-background-color": "#ba8a4c",
+      "button-color": "#ffffff",
+      "secondary-button-background": "#dec8a9",
+      "secondary-button-color": "#724f22",
+      "header-tools-color": "#6d5f5a",
+      "header-tools-background-color": "#e7e1d8",
+      "navigation-color": "#6d5f5a",
+      "form-select-background": "#e7e1d8",
+      "form-select-color": "#6d5f5a",
+      "form-select-border-color": "#e7e1d8",
+      "font-base-size": "14px",
+      "body-font": "Rubik, sans-serif",
+      "heading-font": "'Chivo', sans-serif",
+      "heading-font-weight": "700",
+      "heading-font-small-caps": false,
+      "navigation-font": "Rubik, sans-serif",
+      "navigation-font-weight": "400",
+      "navigation-font-small-caps": false,
+      "meta-font": "Rubik, sans-serif",
+      "meta-font-weight": "400",
+      "meta-font-small-caps": false,
+      "button-font": "Rubik, sans-serif",
+      "button-font-weight": "400",
+      "button-font-small-caps": true,
+      "alternative-index-layout": false,
+      "social-facebook-link": "",
+      "social-twitter-link": "",
+      "social-pinterest-link": "",
+      "social-instagram-link": "",
+      "social-googleplus-link": "",
+      "social-tumblr-link": "",
+      "social-youtube-link": "",
+      "social-vimeo-link": "",
+      "social-kickstarter-link": "",
+      "social-email-link": "",
+      "share-widget-facebook": true,
+      "share-widget-twitter": true,
+      "share-widget-pinterest": true,
+      "share-widget-fancy": true,
+      "share-widget-google-plus": true,
+      "share-widget-email": true,
+      "currency-switcher-format": "money_with_currency_format",
+      "currency-switcher": true,
+      "currency-switcher-supported-currencies": "CAD USD GBP AUD JPY",
+      "default_currency": "USD",
+      "ajax": false,
+      "alternative-index-layout-title-color": "#ffffff",
+      "currency-switcher-default": "CAD",
+      "customer_layout": "customer_area",
+      "logo-color": "#60504d",
+      "password-mailing-list": false,
+      "sections": {
+        "section-1": {
+          "type": "home-slideshow",
+          "blocks": {
+            "slide-1": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "left",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            },
+            "slide-2": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "center",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            },
+            "slide-3": {
+              "type": "slide",
+              "settings": {
+                "image": "",
+                "content-alignment": "right",
+                "overlay-color": "",
+                "title": "Slide",
+                "subheading": "Introduce customers to your shop with lifestyle imagery and product photography",
+                "cta": "Button",
+                "url": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-1",
+            "slide-2",
+            "slide-3"
+          ],
+          "settings": {
+            "layout": "full-width",
+            "controls-color": "",
+            "autoplay": false,
+            "autoplay_delay": 3,
+            "autoplay-hover-pause": false
+          }
+        },
+        "section-2": {
+          "type": "home-masonry",
+          "blocks": {
+            "feature-1": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-2": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-3": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-4": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-5": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            },
+            "feature-6": {
+              "type": "image_feature",
+              "settings": {
+                "title": "Masonry feature",
+                "subheading": "Showcase up to six features with overlaying text",
+                "url": "",
+                "color": "black",
+                "image": "",
+                "mobile": true
+              }
+            }
+          },
+          "block_order": [
+            "feature-1",
+            "feature-2",
+            "feature-3",
+            "feature-4",
+            "feature-5",
+            "feature-6"
+          ],
+          "settings": {
+            "layout": "content-width",
+            "gutters": true,
+            "hover": false,
+            "hover-animation": true
+          }
+        },
+        "section-3": {
+          "type": "home-collections",
+          "blocks": {
+            "collection-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            },
+            "collection-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            },
+            "collection-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "overlay-color": "black",
+                "subheading": "Collection subtitle",
+                "description": "Help guide customers to the products they're looking for by featuring collections on your homepage"
+              }
+            }
+          },
+          "block_order": [
+            "collection-1",
+            "collection-2",
+            "collection-3"
+          ],
+          "settings": {
+            "title": "Collection list",
+            "columns_range": 3
+          }
+        },
+        "pxs-announcement-bar": {
+          "type": "pxs-announcement-bar",
+          "settings": {
+            "show_announcement": false,
+            "announcement_home_only": false,
+            "announcement_text": "Call attention to a special discount, feature, or promotion here.",
+            "announcement_text_mobile": "Use less text on mobile!",
+            "announcement_link": "",
+            "announcement_color": "#ffffff",
+            "announcement_background": "#000000"
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "header_layout": "default",
+            "header_full_width": false,
+            "header_border": false,
+            "sticky_header": false,
+            "sticky_header_logo": false,
+            "menu": "main-menu"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "headings": false,
+            "footer-payment-options": false
+          }
+        }
+      },
+      "content_for_index": [
+        "section-1",
+        "section-2",
+        "section-3"
+      ]
+    }
+  }
+}

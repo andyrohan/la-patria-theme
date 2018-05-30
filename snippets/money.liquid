@@ -1,0 +1,5 @@
+{% if settings.currency-switcher-format == 'money_format' %}
+  {{ value | money_without_currency }}
+{% else %}
+  {{ value | money_with_currency }}
+{% endif %}
