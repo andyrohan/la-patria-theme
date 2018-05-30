@@ -38,7 +38,7 @@ assets/pxu-social-icons.woff:
 assets/theme.js.liquid:
   development: 2018-04-29T08:16:04-12:00   00aadffb4ba57066c5905c5030b43a94
 assets/theme.scss.liquid:
-  development: 2018-05-07T12:30:41-12:00   21fa5af1a1286db1af8b2bc8b9e391dd
+  development: 2018-05-29T16:25:08-12:00   8e38b51ae3ec4fcca6f572e90e3e49d4
 config/settings_data.json:
   development: 2018-05-06T13:37:19-12:00   604eb236b7a12b618d4e0d52750b0462
 config/settings_schema.json:
@@ -48,7 +48,7 @@ layout/alternative.liquid:
 layout/theme.liquid:
   development: 2018-04-29T08:16:05-12:00   0fdcc5a194cb55bdae92b2af1e4ec15f
 locales/en.default.json:
-  development: 2018-05-29T14:52:04-12:00   9f9b0a96d583a04ac0a153a19ba7b270
+  development: 2018-05-29T15:06:51-12:00   ba859c163844414e96fb8b13a6833eaf
 sections/article.liquid:
   development: 2018-04-29T08:16:01-12:00   c60d92b307fb01fd8420a421873836c2
 sections/blog-masonry.liquid:
@@ -64,7 +64,7 @@ sections/collection.liquid:
 sections/footer.liquid:
   development: 2018-05-06T10:33:20-12:00   5e2a11c90de0292cf78f7579c4ead74f
 sections/header.liquid:
-  development: 2018-04-29T08:16:02-12:00   855dc0eccf50612d6f85ac6399f5be82
+  development: 2018-05-29T15:52:11-12:00   8f73db0a9d50bf76accb5ba514fc31fd
 sections/home-blog.liquid:
   development: 2018-04-29T08:16:02-12:00   14f1a85016a164f4bcfc46e56d64714a
 sections/home-collections.liquid:
@@ -124,7 +124,7 @@ snippets/home-onboard-product.liquid:
 snippets/home-slideshow-slide.liquid:
   development: 2018-04-29T08:16:05-12:00   dd64a51630582225efa5ca97af0eca57
 snippets/icons.liquid:
-  development: 2018-04-29T08:16:05-12:00   88dbbf0e3590b2d2c225b459739bae3a
+  development: 2018-05-29T16:00:21-12:00   4005c3baf9d590ca9e8f96413a740469
 snippets/is-dropdown-or-meganav.liquid:
   development: 2018-04-29T08:16:05-12:00   5538859097a4f43203443d51ff9f4a6a
 snippets/loading-animation.liquid:
