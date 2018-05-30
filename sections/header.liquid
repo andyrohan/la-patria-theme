@@ -88,7 +88,12 @@
 
           <div class="mini-cart-wrapper">
             <a class="cart-count" href="/cart" data-cart-count>
-              <span class="cart-count-text">{{ 'layout.header.cart' | t }}</span>
+              <span class="icon-cart">
+                {%-
+                  include 'icons',
+                  id: 'cart-icon',
+                -%}
+              </span>
               (<span class="cart-count-number">{{ cart.item_count }}</span>)
             </a>
 
@@ -237,7 +242,12 @@
 
         {% if section.settings.sticky_header %}
           <a class="sticky-header-cart-count" href="/cart" data-cart-count>
-            <span class="cart-count-text">{{ 'layout.header.cart' | t }}</span>
+            <span class="cart-count-text">
+              {%-
+                include 'icons',
+                id: 'cart-icon',
+              -%}
+            </span>
             (<span class="cart-count-number">{{ cart.item_count }}</span>)
           </a>
         {% endif %}

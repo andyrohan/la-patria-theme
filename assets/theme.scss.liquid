@@ -7845,7 +7845,7 @@ $gutter-medium: 40px;
 
   .checkout-link,
   .mini-cart-wrapper {
-    padding: 10px 20px;
+    padding: 10px 20px 10px 35px;
     background: $body-background-color;
   }
 
@@ -9692,3 +9692,19 @@ $sticky-header-outer-widths: 100px + $gutter-horizontal;
   }
 }
 
+
+/********** Shopping cart icon in header ********/
+.icon-cart {
+  position: relative;
+}
+
+.cart-icon {
+  @extend %icon-svg;
+  position: absolute;
+  bottom: -1px;
+  left: -20px;
+}
+
+#cart-svg {
+  fill: #787878;
+}
